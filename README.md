@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shawn Lam</h1>
-<h3 align="center">LIN Xiaoyang from Nan'an, Chongqing, China</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
+<h3 align="center">From Chongqing, China</h3>
 
 - 🔭 I’m currently **a CityU student in Hong Kong**
 
-- 👨‍💻 Intern: **Digital Enablement in HKPC**
+- 👨‍💻 Intern: **Junior Programmer in HKPC**
 
 <p align="left">
 </p>
